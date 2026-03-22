@@ -1,14 +1,14 @@
 cask "md-editor" do
-  version "1.0.5"
+  version "1.1.0"
 
   on_arm do
-    url "https://github.com/rushabhpasad/md-editor/releases/download/v1.0.5/MD.Editor_1.0.5_aarch64.dmg"
-    sha256 "4be53e4bb142939909aef6f61dfa79d2aa3b7cbd989992dc7b25b700fc80d08f"
+    url "https://github.com/rushabhpasad/md-editor/releases/download/v1.1.0/MD.Editor_1.1.0_aarch64.dmg"
+    sha256 "ab0129e7f7f7b1b7bb44e558a71b3b6e40f8db914f14185f474b64cdd9f03ee8"
   end
 
   on_intel do
-    url "https://github.com/rushabhpasad/md-editor/releases/download/v1.0.5/MD.Editor_1.0.5_x64.dmg"
-    sha256 "9700de4fba83498abb6ae739526a8d73e7c5b52ca26a7a6b85a57d848251ed5a"
+    url "https://github.com/rushabhpasad/md-editor/releases/download/v1.1.0/MD.Editor_1.1.0_x64.dmg"
+    sha256 "708df36321fab89dd31fdc09d104f4544536fcacc3ecbe03b300452605c7e725"
   end
 
   name "MD Editor"
