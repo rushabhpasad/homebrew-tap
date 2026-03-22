@@ -3,12 +3,12 @@ cask "md-editor" do
 
   on_arm do
     url "https://github.com/rushabhpasad/md-editor/releases/download/v1.0.4/MD.Editor_1.0.4_aarch64.dmg"
-    sha256 "3b8b05a5ff37851fe492f0fe1cc472766fe4d6535db2cd8da42d547cb93bd326"
+    sha256 "d7b7626375c4b67ba9df592cfb031b5ffa8a5dd100d93bd3614767b53c1eb930"
   end
 
   on_intel do
     url "https://github.com/rushabhpasad/md-editor/releases/download/v1.0.4/MD.Editor_1.0.4_x64.dmg"
-    sha256 "d09ddd341358f09fedfaba9c1d703ab60fe985bb7774418f791610825602a116"
+    sha256 "95dce37cef3fd6b317369e85034f16d25fc60b712e193f07c26bd0df17b1970e"
   end
 
   name "MD Editor"
